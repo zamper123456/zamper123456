@@ -1,1 +1,1 @@
-its a automated selenium project to pull data from webpage ui elements
+its a webscrapping project to pull data online using webpage ui elements using selenium in python
